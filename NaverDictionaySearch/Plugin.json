@@ -1,0 +1,14 @@
+{
+    "ID": "AE953C974C2241878F282EA18A7769E4",
+    "ActionKeyword": "ne",
+    "IsGlobal": false,
+    "Name": "NaverDictionarySearch",
+    "Author": "jureamer",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/test/ConductOfCode",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.NaverDictionarySearch.dll",
+    "IcoPathDark": "Images\\demo.dark.png",
+    "IcoPathLight": "Images\\demo.light.png",
+    "DynamicLoading": false
+  }
